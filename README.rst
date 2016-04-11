@@ -1,4 +1,4 @@
-Py3 Gevent_
+Py3 Gevent
 =======
 
 100% compatibility with the official gevent
